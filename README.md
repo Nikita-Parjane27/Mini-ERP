@@ -175,11 +175,11 @@ sample_output/  example Excel, JSON and error report
 ```
 
 ## Screenshots
-<!-- Add after you run the demo, then remove this comment:
+## Screenshots
 ![Dashboard](docs/screenshots/dashboard.png)
 ![Blocked work order](docs/screenshots/blocked-work-order.png)
-![Excel report](docs/screenshots/excel-report.png)
--->
+![CSV import with validation](docs/screenshots/csv-import.png)
+![Tests passing](docs/screenshots/tests-passing.png)
 
 ## Possible next steps
 - Connect the Vendor Bill Digitizer so scanned bills create purchase orders
