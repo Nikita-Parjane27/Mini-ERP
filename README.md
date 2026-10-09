@@ -1,5 +1,7 @@
 # Mini ERP for a Small Manufacturer
 
+**Live demo:** https://mini-erp-2026.streamlit.app/
+
 A Python + SQLite application that automates the core flow of an ERP for a small electrical
 equipment maker (current transformers, potential transformers): **purchase orders, bill of
 materials (BOM), production, and a full stock ledger.** Includes validated CSV import,
