@@ -1,0 +1,5 @@
+sku,name,unit,item_type,reorder_level,unit_cost
+CU-WIRE,Copper Wire 2.5 sq mm,kg,RAW,450,720
+CORE-CRGO,CRGO Silicon Steel Core,kg,RAW,100,95
+EPOXY-RESIN,Epoxy Resin,kg,RAW,80,310
+CT-11KV,Current Transformer 11kV,pcs,FINISHED,10,0

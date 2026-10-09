@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+*.log
+.pytest_cache/
+.venv/
+reports/
+import_errors.csv

@@ -1,0 +1,9 @@
+sku,name,unit,item_type,reorder_level,unit_cost
+CU-WIRE,Copper Wire 2.5 sq mm,kg,RAW,450,720
+,Item with no SKU,kg,RAW,10,5
+CORE-CRGO,,kg,RAW,100,95
+HARDENER,Epoxy Hardener,kg,CHEMICAL,20,450
+TERMINAL,Terminal Bolt Set,pcs,RAW,-5,18
+HOUSING,Cast Housing,pcs,RAW,20,abc
+CU-WIRE,Copper Wire (duplicate),kg,RAW,450,720
+CT-11KV,Current Transformer 11kV,pcs,FINISHED,10,0

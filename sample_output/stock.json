@@ -1,0 +1,194 @@
+{
+  "generated_on": "2026-10-08",
+  "stock": [
+    {
+      "sku": "CORE-CRGO",
+      "name": "CRGO Silicon Steel Core",
+      "item_type": "RAW",
+      "unit": "kg",
+      "stock_qty": 80.0,
+      "reorder_level": 100.0,
+      "status": "LOW"
+    },
+    {
+      "sku": "CU-WIRE",
+      "name": "Copper Wire 2.5 sq mm",
+      "item_type": "RAW",
+      "unit": "kg",
+      "stock_qty": 568.0,
+      "reorder_level": 450.0,
+      "status": "OK"
+    },
+    {
+      "sku": "EPOXY-RESIN",
+      "name": "Epoxy Resin",
+      "item_type": "RAW",
+      "unit": "kg",
+      "stock_qty": 40.0,
+      "reorder_level": 80.0,
+      "status": "LOW"
+    },
+    {
+      "sku": "HARDENER",
+      "name": "Epoxy Hardener",
+      "item_type": "RAW",
+      "unit": "kg",
+      "stock_qty": 19.0,
+      "reorder_level": 20.0,
+      "status": "LOW"
+    },
+    {
+      "sku": "HOUSING",
+      "name": "Cast Housing",
+      "item_type": "RAW",
+      "unit": "pcs",
+      "stock_qty": 0.0,
+      "reorder_level": 20.0,
+      "status": "LOW"
+    },
+    {
+      "sku": "TERMINAL",
+      "name": "Terminal Bolt Set",
+      "item_type": "RAW",
+      "unit": "pcs",
+      "stock_qty": 200.0,
+      "reorder_level": 200.0,
+      "status": "LOW"
+    },
+    {
+      "sku": "CT-11KV",
+      "name": "Current Transformer 11kV",
+      "item_type": "FINISHED",
+      "unit": "pcs",
+      "stock_qty": 40.0,
+      "reorder_level": 10.0,
+      "status": "OK"
+    },
+    {
+      "sku": "PT-11KV",
+      "name": "Potential Transformer 11kV",
+      "item_type": "FINISHED",
+      "unit": "pcs",
+      "stock_qty": 10.0,
+      "reorder_level": 5.0,
+      "status": "OK"
+    }
+  ],
+  "low_stock": [
+    {
+      "sku": "EPOXY-RESIN",
+      "name": "Epoxy Resin",
+      "unit": "kg",
+      "stock_qty": 40.0,
+      "reorder_level": 80.0,
+      "shortfall": 40.0
+    },
+    {
+      "sku": "CORE-CRGO",
+      "name": "CRGO Silicon Steel Core",
+      "unit": "kg",
+      "stock_qty": 80.0,
+      "reorder_level": 100.0,
+      "shortfall": 20.0
+    },
+    {
+      "sku": "HOUSING",
+      "name": "Cast Housing",
+      "unit": "pcs",
+      "stock_qty": 0.0,
+      "reorder_level": 20.0,
+      "shortfall": 20.0
+    },
+    {
+      "sku": "HARDENER",
+      "name": "Epoxy Hardener",
+      "unit": "kg",
+      "stock_qty": 19.0,
+      "reorder_level": 20.0,
+      "shortfall": 1.0
+    },
+    {
+      "sku": "TERMINAL",
+      "name": "Terminal Bolt Set",
+      "unit": "pcs",
+      "stock_qty": 200.0,
+      "reorder_level": 200.0,
+      "shortfall": 0.0
+    }
+  ],
+  "valuation": [
+    {
+      "sku": "CU-WIRE",
+      "name": "Copper Wire 2.5 sq mm",
+      "stock_qty": 568.0,
+      "unit_cost": 730.0,
+      "value": 414640.0
+    },
+    {
+      "sku": "EPOXY-RESIN",
+      "name": "Epoxy Resin",
+      "stock_qty": 40.0,
+      "unit_cost": 310.0,
+      "value": 12400.0
+    },
+    {
+      "sku": "HARDENER",
+      "name": "Epoxy Hardener",
+      "stock_qty": 19.0,
+      "unit_cost": 450.0,
+      "value": 8550.0
+    },
+    {
+      "sku": "CORE-CRGO",
+      "name": "CRGO Silicon Steel Core",
+      "stock_qty": 80.0,
+      "unit_cost": 95.0,
+      "value": 7600.0
+    },
+    {
+      "sku": "TERMINAL",
+      "name": "Terminal Bolt Set",
+      "stock_qty": 200.0,
+      "unit_cost": 18.0,
+      "value": 3600.0
+    },
+    {
+      "sku": "CT-11KV",
+      "name": "Current Transformer 11kV",
+      "stock_qty": 40.0,
+      "unit_cost": 0.0,
+      "value": 0.0
+    },
+    {
+      "sku": "HOUSING",
+      "name": "Cast Housing",
+      "stock_qty": 0.0,
+      "unit_cost": 260.0,
+      "value": 0.0
+    },
+    {
+      "sku": "PT-11KV",
+      "name": "Potential Transformer 11kV",
+      "stock_qty": 10.0,
+      "unit_cost": 0.0,
+      "value": 0.0
+    }
+  ],
+  "purchase_summary": [
+    {
+      "supplier": "Shree Metals",
+      "po_count": 2,
+      "total_value": 534500.0
+    },
+    {
+      "supplier": "Sai Resins",
+      "po_count": 1,
+      "total_value": 55200.0
+    },
+    {
+      "supplier": "Pune Electricals",
+      "po_count": 1,
+      "total_value": 20200.0
+    }
+  ]
+}
